@@ -1,0 +1,12 @@
+C:\Projects\TwitterRestAPITest\obj\Debug\TwitterRestAPITest.csprojResolveAssemblyReference.cache
+C:\Projects\TwitterRestAPITest\bin\TwitterRestAPITest.dll
+C:\Projects\TwitterRestAPITest\bin\TwitterRestAPITest.pdb
+C:\Projects\TwitterRestAPITest\bin\Hammock.ClientProfile.dll
+C:\Projects\TwitterRestAPITest\bin\Newtonsoft.Json.dll
+C:\Projects\TwitterRestAPITest\bin\TweetSharp.dll
+C:\Projects\TwitterRestAPITest\bin\Hammock.ClientProfile.pdb
+C:\Projects\TwitterRestAPITest\bin\Newtonsoft.Json.xml
+C:\Projects\TwitterRestAPITest\bin\TweetSharp.pdb
+C:\Projects\TwitterRestAPITest\obj\Debug\TwitterRestAPITest.dll
+C:\Projects\TwitterRestAPITest\obj\Debug\TwitterRestAPITest.pdb
+C:\Projects\TwitterRestAPITest\bin\LinqToTwitter.dll
